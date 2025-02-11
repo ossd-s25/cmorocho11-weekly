@@ -59,6 +59,9 @@ url: "https://ossd-s25.github.io/cmorocho11-weekly"
 
 baseurl: "/cmorocho11-weekly"
 
+include:
+  - _posts
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #   (but you may, if you know what you are doing)
